@@ -1,0 +1,14 @@
+INSERT INTO livros (nome_livro, autor_livro, genero_livro) 
+VALUES
+('The Outsiders', 'S. E. Hinton', 'infantojuvenil'),
+('Pequeno Principe', 'Antoine de Saint-Exupéry', 'Fábula'),
+('Dom Quixote', 'Miguel de Cervantes', 'Aventura'),
+('1984', 'George Orwell', 'Ficção Científica'),
+('Orgulho e Preconceito', 'Jane Austen', 'Romance'),
+('Cem Anos de Solidão', 'Gabriel García Márquez', 'Realismo Mágico'),
+('Apanhador no Campo de Centeio', 'J.D. Salinger', 'Ficção'),
+('O Senhor dos Anéis', 'J.R.R. Tolkien', 'Fantasia'),
+('Crime e Castigo', 'Fiodor Dostoievski', 'Romance Psicológico'),
+('Harry Potter e a Pedra Filosofal', 'J.K. Rowling', 'Fantasia'),
+('Moby Dick', 'Herman Melville', 'Aventura'),
+('As Crônicas de Nárnia', 'C.S. Lewis', 'Fantasia');
